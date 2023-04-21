@@ -8,6 +8,11 @@ const nextConfig = {
         hostname: 'localhost',
         pathname: '/images/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'lit-hollows-47786.herokuapp.com',
+        pathname: '/images/**',
+      }
     ],
   },
 }
